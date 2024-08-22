@@ -12,7 +12,7 @@ This project offers a thorough analysis of selected stocks by integrating variou
 ## Example Output
 The output includes:
 
-Financial Analysis Sentiment: Positive/Negative/Neutral
-Macroeconomic Analysis Sentiment: Positive/Negative/Neutral
-News Sensitivity Analysis Sentiment: Positive/Negative/Neutral
-Interactive Charts: Dynamic visual representation of stock data with technical indicators, allowing for detailed analysis and exploration.
+* Financial Analysis Sentiment: Positive/Negative/Neutral
+* Macroeconomic Analysis Sentiment: Positive/Negative/Neutral
+* News Sensitivity Analysis Sentiment: Positive/Negative/Neutral
+* Interactive Charts: Dynamic visual representation of stock data with technical indicators, allowing for detailed analysis and exploration.
